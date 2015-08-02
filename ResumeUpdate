@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Amelia Frevert's Resume</title>
+		<link href="resume.css" type="text/css" rel="stylesheet"/>
+	</head>
+	<body>
+		<div class="header">
+			<h1>Amelia Frevert</h1>	
+		</div>	
+		<div class="column1">
+			<h2>Education</h2>
+				<p>The Evergreen State College<br>B.A. English</p>	
+					<img src="https://pbs.twimg.com/profile_images/627216944270151682/O7zjVFZD.jpg"
+						style="width:250px;height:250px">
+						<ul>
+							<li><a href="mailto:frevert.amelia@gmail.com?Subject=Hiring%20Inquiry" target="_top">frevert.amelia@gmail.com</a></li>
+								<li><a href="https://twitter.com/Catcart" class="twitter-follow-button" data-show-count="false">Follow @Catcart</a>
+								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
+									<li><a href="http://catcart.polyvore.com/">Polyvore</a></li>
+						</ul>				
+		</div>
+		<div class="column2">
+			<h2>Experience</h2>
+				<ul>
+					<li><a href="http://afmsp.org/">Alliance Francaise</a></li>
+					<li>Marketing Communications Intern</li>
+				</ul>	
+					<h3>February 2014-September 2014</h3>
+					<p>Coordinate, plan and execute ways to reach emerging and sustaining markets through press releases and targeted social media marketing. Write and distribute press releases to media contacts. Edit weekly e-newsletter. Write and edit the Marketing Committee meeting minutes. Act as hiring manager to fill empty intern positions through job listings and take prospective employees through the hiring process. Ocassionally dress up as historical figures for events.
+					</p>
+					<ul>	
+						<li><a href="http://www.kfai.org/">KFAI Fresh Air Radio</a></li>
+						<li>Volunteer Administrator/Library Assistant</li>
+					</ul>
+						<h3>September 2012-August 2013</h3>
+						<p>Maintain correspondence with volunteers. Manage digital and analog databases. Work closely with volunteer coordinator. Fundraising assistance via phone bank. Organize collection of incoming and current records. Research upcoming sponsored events to maintain updated in-studio promotional shelf.</p>
+						<ul>	
+							<li><a  href="http://hpdl.org/">HPDL Community Association</a></li>
+							<li>Board Member/Chair of Environmental Committee</li>
+						</ul>
+							<h3>September 2012-Present</h3>
+							<p>Discuss and vote on local policy and regulations. Build relationships with local government officials to best serve residents. Organize events that cater to a varied demographic. Lead committee meetings.</p>
+								<ul>	
+									<li><a href="http://www.cariboucoffee.com/home">Caribou Coffee</a></li>
+									<li>Team Member</li>
+								</ul>
+									<h3>September 2012-July 2015</h3>
+									<p>Commitment to serving a quality product in a fast-paced environment focusing on guest satisfaction.</p>
+		</div>		
+		<div class="column3">			
+				<h2>Skills</h2>
+					<p>Excellent Organization Copywriting Office Suite PC or Mac Adobe Creative Suite Collaborative Spirit and Inpendently Driven.</p>
+				<h2>Hobbies</h2>		
+					<p>Crafting Typography Embroidery Collages Polyvore.</p>
+						<img src="https://pbs.twimg.com/media/CLMUNp2W8AAzSrO.jpg"
+							style="width:275px;height:300px">
+							<img src="https://pbs.twimg.com/media/CLMUcPMWoAAn1f0.jpg"
+							style="width:275px;height:325px">
+		</div>			
+			
+	</body>
+</html>
